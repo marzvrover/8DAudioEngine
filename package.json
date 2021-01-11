@@ -1,0 +1,23 @@
+{
+  "name": "8d-audio-engine",
+  "version": "0.0.0",
+  "description": "An 8D Audio Engine",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marzvrover/8DAudioEngine.git"
+  },
+  "author": {
+    "name": "Marz Rover",
+    "email": "marzvrover@protonmail.com",
+    "url": "https://github.com/marzvrover"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marzvrover/8DAudioEngine/issues"
+  },
+  "homepage": "https://github.com/marzvrover/8DAudioEngine#readme"
+}
