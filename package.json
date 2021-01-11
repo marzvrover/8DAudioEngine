@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/marzvrover/8DAudioEngine/issues"
   },
-  "homepage": "https://github.com/marzvrover/8DAudioEngine#readme"
+  "homepage": "https://github.com/marzvrover/8DAudioEngine#readme",
+  "dependencies": {
+    "howler": "^2.2.1"
+  }
 }
