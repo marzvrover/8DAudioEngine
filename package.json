@@ -4,7 +4,7 @@
   "description": "An 8D Audio Engine",
   "main": "dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/marzvrover/8DAudioEngine#readme",
   "dependencies": {
-    "howler": "^2.2.1"
+    "global": "^4.4.0",
+    "howler": "^2.2.1",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
