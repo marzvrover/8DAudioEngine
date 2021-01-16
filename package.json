@@ -4,7 +4,8 @@
   "description": "An 8D Audio Engine",
   "main": "dist/main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "browserify src/main.js -o dist/main.js"
   },
   "repository": {
     "type": "git",

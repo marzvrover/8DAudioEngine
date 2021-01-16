@@ -5,7 +5,7 @@
 const {Howl, Howler} = require('howler');
 
 var sound = new Howl({
-  src: ['../music.mp3']
+  src: ['resources/music.mp3']
 });
 
 sound.play();
